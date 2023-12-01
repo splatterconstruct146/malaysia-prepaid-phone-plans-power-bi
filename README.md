@@ -25,7 +25,7 @@ Image 1: Overview page of the report. The report was made with simplicity in min
 Shows the process of creating the data table and then the report.
 ### 1. Creating the Data Table
 The various prepaid phone plans can be found via simple internet search - which was what happened here.\
-Visited various telco sites to gather the most up to date data.\
+Visited various telco sites to gather the most up to date data.
 Populated the data table.\
 
 ### 2. Creating Measures and Calculated Columns
