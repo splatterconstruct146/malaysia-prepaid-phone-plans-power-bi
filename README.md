@@ -15,7 +15,7 @@ Note that since the info is found by web search, the dataset has missing values.
 ## Files 
 The files found in this repository and their descriptions are as follows:
 1. Prepaid Plans.xlsx: Data table holding the info used in the report.
-2. perpaidplans_neutral.pbix: The Power BI report. 
+2. prepaidplans_neutral.pbix: The Power BI report. 
 
 ## Sample Screenshots
 ![Screenshot 2023-12-01 212618](https://github.com/splatterconstruct146/malaysia-prepaid-phone-plans-power-bi/assets/135209633/fb0b616b-7181-42f8-a87a-0a9fc2930b2c)
